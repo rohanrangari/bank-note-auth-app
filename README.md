@@ -19,6 +19,7 @@ Data were extracted from images that were taken from genuine and forged banknote
 - .gitingore: Contains all the extensions to be ignored by git
 - Readme.md : Contains all the describtion for the app
 - requirements.txt : Contains all the dependencies for the app
+![alt text](Screenshots/Project-Structure.PNG "Description goes here")
 
 ## Running the Application
 
