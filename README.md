@@ -19,8 +19,12 @@ Data were extracted from images that were taken from genuine and forged banknote
 - .gitingore: Contains all the extensions to be ignored by git
 - Readme.md : Contains all the describtion for the app
 - requirements.txt : Contains all the dependencies for the app
-![alt text](Screenshots/Project-Structure.PNG "Description goes here")
+  ![alt text](Screenshots/Project-Structure.PNG "App Structure")
 
 ## Running the Application
 
 unicorn app:app --reload
+http://127.0.0.1:8000/docs
+
+![alt text](Screenshots/Docs-Apis.PNG "docs")
+![alt text](Screenshots/predict-route.PNG "Features")
