@@ -34,7 +34,7 @@ http://127.0.0.1:8000/docs
 streamlit run bank-ml.py
 ![alt text](Screenshots/streamlit-app.PNG "Streamlit")
 
-# Penguins web app deployed on Heroku
+# Bank Note Classifier web app deployed on Heroku
 
 The deployed web app is live at https://bank-notes-app.herokuapp.com/
 
