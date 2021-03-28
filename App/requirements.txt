@@ -1,8 +1,0 @@
-pandas
-numpy
-sklearn
-pickle
-flask
-fastapi
-uvicorn
-pickle

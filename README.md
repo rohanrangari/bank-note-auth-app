@@ -21,10 +21,15 @@ Data were extracted from images that were taken from genuine and forged banknote
 - requirements.txt : Contains all the dependencies for the app
   ![alt text](Screenshots/Project-Structure.PNG "App Structure")
 
-## Running the Application
+## Running the Application Via FastAPI
 
 unicorn app:app --reload
 http://127.0.0.1:8000/docs
 
 ![alt text](Screenshots/Docs-Apis.PNG "docs")
 ![alt text](Screenshots/predict-route.PNG "Features")
+
+## Running the Application Via Streamlit
+
+streamlit run bank-ml.py
+![alt text](Screenshots/streamlit-app.PNG "Streamlit")
