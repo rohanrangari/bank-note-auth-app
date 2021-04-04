@@ -23,7 +23,7 @@ Data were extracted from images that were taken from genuine and forged banknote
 
 ## Running the Application Via FastAPI
 
-unicorn app:app --reload
+**unicorn app:app --reload**
 http://127.0.0.1:8000/docs
 
 ![alt text](Screenshots/Docs-Apis.PNG "docs")
@@ -31,7 +31,7 @@ http://127.0.0.1:8000/docs
 
 ## Running the Application Via Streamlit
 
-streamlit run bank-ml.py
+**streamlit run bank-ml.py**
 ![alt text](Screenshots/streamlit-app.PNG "Streamlit")
 
 # Bank Note Classifier web app deployed on Heroku
